@@ -1,0 +1,7 @@
+
+<div style={{padding: '20px'}}>
+  <img src="/banner.jpg" alt="CEO Schools Initiative" style={{width: '100%', borderRadius: '15px'}} />
+  <p style={{textAlign: 'center', marginTop: '10px'}}>
+    Visit us at harryverified.vercel.app
+  </p>
+</div>
